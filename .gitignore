@@ -1,0 +1,6 @@
+main.go
+randfile
+input/
+output/
+.project
+.DS_Store
